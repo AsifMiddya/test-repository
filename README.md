@@ -1,7 +1,3 @@
-# test-repository
+# My very first repo
 
-This is a test description.
-
-These are new edit from my localhost computer.
-
-Another change
+Kelob is an awesome teacher. I will leave him a good review.
